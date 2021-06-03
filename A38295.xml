@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes of the House of Commons, at Oxford, Lunæ 21 die Martii, 1680/1</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38295</idno><idno type="EEBO-CITATION">12892218</idno>
+  <idno type="VID">95133</idno>
+  <idno type="EEBO-PROQUEST">2240868831</idno>
+  
+            <idno type="STC">Wing E2765</idno>
+            <idno type="STC">ESTC P2703</idno>
+            <idno type="OCLC">12892218</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95133)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 690:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes of the House of Commons, at Oxford, Lunæ 21 die Martii, 1680/1</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Gabriel Kunholt ..., published by Langley Curtis,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+                  <note>Covers the session of the 5th Parliament for Charles II. It was adjourned after a week.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div n="1" type="number">
+                  <pb n="1" facs="tcp:95133:1"/>
+                  <head>Numb. 1.</head>
+                  <head>VOTES Of the HOUSE of COMMONS, At OXFORD.</head>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Lunae <hi>21<seg rend="sup">o</seg>
+                              </hi> die Martii, <hi>1680/1.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>A Message from the King was delivered by <hi>Thomas Duppa,</hi> Esq;. Deputy Gentleman-Usher of the <hi>Black Rod.</hi>
+                     </p>
+                     <p>
+                        <hi>Gentlemen of the House of Commons,</hi>
+                     </p>
+                     <p>The King Commands this Honourable House to Attend Him immediately in the House of Peers.</p>
+                     <p>And accordingly the House went up to attend His Majesty, who was pleased (after having made a Speech) to command the Commons to return to their House, and proceed to the choice of their <hi>Speaker.</hi>
+                     </p>
+                     <p>And the House having returned from His Majesty, <hi>William Williams</hi> Esq; Speaker of the last Parliament, was unanimously chosen by the House for their Speaker in this Parliament, and Conducted to the Chair by two of the Members, and there in a Speech accepted the Service of the House.</p>
+                     <p>The House being informed that His Majesty had appointed to Morrow Three of the Clock in the Afternoon, for the House to present their Speaker.</p>
+                  </div>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Martis <hi>22</hi> die Martii, <hi>1680/1.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>THe House being met, and Mr. <hi>Speaker</hi> having taken the Chair.</p>
+                     <p>A Message was delivered from the King, by <hi>Thomas Duppa,</hi> Esq;. Deputy Gentleman-Usher of the <hi>Black Rod.</hi>
+                     </p>
+                     <p>
+                        <hi>Gentlemen of the House of Commons.</hi>
+                     </p>
+                     <p>The King Commands this Honourable House to Attend Him immediately in the House of Peers.</p>
+                     <p>And accordingly <hi>Mr.</hi> Speaker with the House went up to at<g ref="char:EOLhyphen"/>tend his Majesty, and <hi>Mr.</hi> Speaker with a Speech, humbly represent<g ref="char:EOLhyphen"/>ed to his Majesty, That the House of Commons had chosen him
+<pb n="2" facs="tcp:95133:2"/>their Speaker; and he made claim by humble Address to his Ma<g ref="char:EOLhyphen"/>jesty in the Name of the Commons of <hi>England</hi> in Parliament As<g ref="char:EOLhyphen"/>sembled, of the Antient Rights of the Commons for them and their Servants, in their Persons and Estates, to be free from Arrests and other Disturbances, in all their Debates to have Li<g ref="char:EOLhyphen"/>berty and Freedome of Speech, and as occasion shall require, to have access to his Majesties Royal Person.</p>
+                     <p>Which were allowed by the King.</p>
+                     <p>The House being returned, and <hi>Mr.</hi> Speaker having taken the Chair, and made Report thereof to the House,</p>
+                     <p>The House Adjourned.</p>
+                  </div>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Mercurii <hi>23<seg rend="sup">o</seg>
+                              </hi> die Martii, <hi>1680/1.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>THe House being met, proceeded to the taking the Oaths of Allegiance and Supremacy, and making and subscribing the Declaration directed by an Act made in the Thirtieth Year of his now Majesties Reign, Entituled, <hi>An Act for the more effe<g ref="char:EOLhyphen"/>ctual preserving the King</hi>'s <hi>Person and Government, by disabling</hi> Papists <hi>from Sitting in either House of Parliament.</hi>
+                     </p>
+                     <p>And <hi>Mr.</hi> Speaker and a great number of the Members of the House, having taken the said Oaths, and made and subscribed the said Declaration,</p>
+                     <p>The House Adjourned.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="license">
+                  <p>I <hi>Appoint</hi> Gabriel Kunholt <hi>to Print these VOTES, Perused by me accord<g ref="char:EOLhyphen"/>ing to the Order of the</hi> House of Commons; <hi>And that no other Person person presume to Print them.</hi> March 23. 1680/1.</p>
+                  <closer>
+                     <signed>Wi Williams, <hi>Speaker.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>Gabriel Kunholt</hi> Book-binder to his Highness Prince <hi>RUPERT;</hi> And are to be sold at his Shop at the <hi>King</hi>'s-<hi>Head</hi> over against the <hi>Meuse.</hi>
+                  </p>
+                  <p>Published by <hi>Langley Curtis</hi> in <hi>Goat Court</hi> upon <hi>Ludgate-Hill.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div n="2" type="number">
+                  <pb n="3" facs="tcp:95133:2"/>
+                  <head>Numb. 2.</head>
+                  <head>VOTES Of the HOUSE of COMMONS At OXFORD.</head>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Jovis <hi>24.</hi> Die Martii, <hi>1680.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>A Bill to correct vexatious Actions of Trespass was Read the first time.</p>
+                     <p>
+                        <hi>Resolved,</hi> That the Bill be Read a second time.</p>
+                     <p>
+                        <hi>Ordered,</hi> That where there is any double Returns of Mem<g ref="char:EOLhyphen"/>bers to serve in this present Parliament, such Members do forbear to Sit until the said Returns be decided.</p>
+                     <p>A Petition of <hi>Richard Duke</hi> Esq; touching the Election for the Bur<g ref="char:EOLhyphen"/>rough of <hi>Ashburton</hi> in the County of <hi>Devon.</hi>
+                     </p>
+                     <p>A Petition of the Burgesses and Inhabitants of the Burrough of <hi>South<g ref="char:EOLhyphen"/>wark</hi> in the County of <hi>Surrey</hi> touching the Election for the said Burrough.</p>
+                     <p>A Petition of Sir <hi>Richard Stevens</hi> Knight touching the Election for the Burrough of <hi>Port smouth</hi> in the County of <hi>Southhampton.</hi>
+                     </p>
+                     <p>A Petition of Sir <hi>Peter Tyrret</hi> Baronet, and <hi>Charles Blount</hi> Esq; touching the Election for the Burrough of <hi>Buckingham</hi> in the County of <hi>Bucks.</hi>
+                     </p>
+                     <p>A Petition of <hi>Denzell Onslow,</hi> and <hi>Francis Dorrington</hi> Esquires touching the Election for the Burrough of <hi>Haslemere</hi> in the County of <hi>Surrey.</hi>
+                     </p>
+                     <p>A Petition of <hi>Humphrey Burlace,</hi> and <hi>Nicholas Burlace</hi> Esquires touch<g ref="char:EOLhyphen"/>ing the Election for the Burrough of <hi>Mitchell</hi> in the County of <hi>Cornwall.</hi>
+                     </p>
+                     <p>A Petition of <hi>Francis Paulett</hi> Esq; and Sir <hi>Robert Henley</hi> Knight touch<g ref="char:EOLhyphen"/>ing the Election for the Burrough of <hi>Andover</hi> in the County of <hi>South<g ref="char:EOLhyphen"/>hampton.</hi>
+                     </p>
+                     <p>A Petition of Sir <hi>Roger Hill</hi> Knight, touching the Election for the Burrough of <hi>Agmondesham</hi> in the County of <hi>Bucks.</hi>
+                     </p>
+                     <p>A Petition of <hi>Algernon Sidney</hi> Esq; touching the same Election.</p>
+                     <p>A Petition of <hi>Edward Hungerford,</hi> and <hi>John Eyles</hi> Esquires touching the Election for the Burrough of <hi>Devises</hi> in the County of <hi>Wilts.</hi>
+                     </p>
+                     <p>A Petition of <hi>John Turton</hi> Esq; touching the Election for the Bur<g ref="char:EOLhyphen"/>rough of <hi>Tamworth</hi> in the Counties of <hi>Warwick</hi> and <hi>Stafford.</hi>
+                     </p>
+                     <p>A Petition of <hi>George Rodney Bridges</hi> Esq; touching the Election for the City of <hi>Litchfield.</hi>
+                     </p>
+                     <p>A Petition of <hi>Thomas Hooper</hi> Esq; touching the Election for the Bur<g ref="char:EOLhyphen"/>rough of <hi>Christchurch</hi> in the Burrough of <hi>Southhampton.</hi>
+                     </p>
+                     <p>A Petition of <hi>Humphrey Courtney,</hi> and <hi>Thomas Kendall</hi> Esquires touch<g ref="char:EOLhyphen"/>ing the Election for the Burrough of <hi>Westow</hi> in the County of <hi>Cornwall.</hi>
+                     </p>
+                     <p>A Petition of Sir <hi>John Duncombe</hi> Knight, and <hi>George Walsh</hi> Esq; touch<g ref="char:EOLhyphen"/>ing the Election for the Burrough of <hi>Eye</hi> in the County of <hi>Suffolk</hi>
+                     </p>
+                     <p>A Petition of <hi>Samuel Rolls,</hi> and <hi>James Vernon</hi> Esquires touching the Election for the Burrough of <hi>Penryn</hi> in the County of <hi>Cornwall.</hi>
+                     </p>
+                     <p>A Petition of Sir <hi>John Trevor</hi> Knight, touching the Election for the Shire-Town of <hi>Montgomery.</hi>
+                     </p>
+                     <p>A Petition of <hi>Thomas Neale,</hi> and <hi>John Garrard</hi> Esquires touching the Election for the Burrough of <hi>Ludgarshall</hi> in the County of <hi>Wilts.</hi>
+                     </p>
+                     <pb n="4" facs="tcp:95133:3"/>
+                     <p> A Petition of Sir <hi>John Talbot</hi> Knight, and <hi>John Smith</hi> Esquires, touch<g ref="char:EOLhyphen"/>ing the same Election.</p>
+                     <p>A Petition of <hi>William Strode,</hi> and <hi>John Speake</hi> Esquires touching the Election for the Burrough of <hi>Ilchester</hi> in the County of <hi>Somerset.</hi>
+                     </p>
+                     <p>A Petition of Sir <hi>Robert Henley</hi> Baronet, touching the Election for the Burrough of <hi>Bridport</hi> in the County of <hi>Dorset</hi> was Read.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said several Petitions be referred to the consideration of the Committee of Elections and Priviledges to examine the matter thereof, and to Report the same with their Opinions therein to this House.</p>
+                     <p>A Petition of Sir <hi>Robert Atkins</hi> Knight of the <hi>Bath,</hi> Sir <hi>John Knight</hi> Knight, and other Burgesses and Freeholders of the City of <hi>Bristol</hi> touch<g ref="char:EOLhyphen"/>ing the Election for the said City, was Read.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the matter of this Petition be heard at the Bar of this House on next <hi>Monday</hi> sevenight.</p>
+                     <p>A Petition of <hi>Richard Middleton</hi> Esq; touching the Election for the County of <hi>Denbigh,</hi> was Read.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Merits of this Petition be heard at the Bar of this House next <hi>Wednesday</hi> sevenight.</p>
+                     <p>A Petition of <hi>Thomas Harris</hi> Esq; touching the Election for the City of <hi>Worcester,</hi> was Read.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Merits of this Petition be heard at the Bar of this House upon the Debate on next <hi>Monday</hi> fortnight.</p>
+                     <p>A Petition of the Citizens and Freemen of the City of <hi>Exon</hi> touching the Election for the said City, was Read.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Matter of this Petition be heard at the Bar of this House next <hi>Monday</hi> three weeks.</p>
+                     <p>
+                        <hi>William Levison Gore</hi> being Elected, and Returned to serve in this pre<g ref="char:EOLhyphen"/>sent Parliament, as one of the Knights for the County of <hi>Salop;</hi> and also a Burgess for the Burrough of <hi>Newcastle Ʋnderline</hi> in the County of <hi>Staf<g ref="char:EOLhyphen"/>ford,</hi> made his Election to serve for the County of <hi>Salop.</hi>
+                     </p>
+                     <p>
+                        <hi>Ordered,</hi> That Mr. Speaker do Issue out his Warrant to the Clerk of the Crown, to make out a New Writ for the Electing of a Burgess to serve in this present Parliament for the Burrough of <hi>Newcastle Ʋnder<g ref="char:EOLhyphen"/>line,</hi> in the room of the said <hi>William Levison Gore.</hi>
+                     </p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That the Votes and Proceedings of this House be Printed, and that the Care of the Printing thereof, and the Appointment of the Printers be committed to Mr. Speaker.</p>
+                     <p>
+                        <hi>Ordered,</hi> That the Thanks of this House be given to Mr. Speaker for the Speech by him made in the House of Lords, upon his being presented to His Majesty, and that he be desired to Print the same.</p>
+                     <p>The House taking notice that a Bill which passed both Houses the last Parliament, Entituled, <hi>An Act for the Repeal of a Statute made in the</hi> 35th <hi>year of the Reign of the Queen</hi> Eliz. was not presented to His Majesty (as the rest of the Bills were) for His Royal Assent.</p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That this House will to Morrow Morning at Ten of the Clock, take into consideration by what means the said Bill miscarried.</p>
+                     <p>
+                        <hi>Resolved Nemin<gap reason="illegible: faint" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Contradicente.</hi>
+                     </p>
+                     <p>That this House will on <hi>Saturday</hi> Morning next, at Ten of the Clock, consider of means for the Security of the Protestant Religion, and for the Safety of the King's Person.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="license">
+                  <p>I <hi>Appoint</hi> Gabriel Kunholt <hi>to Print these</hi> VOTES, <hi>Perused and Signed by me, according to the Order of the</hi> House of COMNONS; <hi>And that no other Person presume to Print them.</hi> March 24. 1680.</p>
+                  <closer>
+                     <signed>Wi Williams, <hi>Speaker.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>Gabriel Kunholt,</hi> Bookbinder to His Highness Prince <hi>RƲ<g ref="char:EOLhyphen"/>PERT;</hi> And are to be Sold at his shop at the <hi>King's-Head</hi> over against the <hi>Meuse.</hi>
+                  </p>
+                  <p>Publish'd by <hi>Langley Curtis</hi> upon <hi>Ludgate-Hill.</hi> 1681.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div n="3" type="number">
+                  <pb n="5" facs="tcp:95133:3"/>
+                  <head>Numb. 3.</head>
+                  <head>VOTES of the HOUSE of COMMONS, At OXFORD.</head>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Veneris <hi>25<seg rend="sup">o</seg>
+                              </hi> die Martii, <hi>1681.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>A Petition of <hi>Henry Whitehead</hi> Esq; Touching the Election for the Burrough of <hi>Stockbridge</hi> in the County of <hi>Southampton,</hi> was read.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said Petition be referr'd to the Consideration of the Committee of Elections and Priviledges to examine the Matter thereof, and Report the same, with their Opinions therein, to the House.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That Mr. <hi>Hampden,</hi> Sir <hi>Francis Winnington,</hi> &amp;c. or any Three of them, do inspect the Journals of the Late Parliaments relating to the Impeachment of <hi>Thomas</hi> Earl of <hi>Danby,</hi> and do immediately make Report thereof to the House.</p>
+                     <p>A Message from the Lords by Sir <hi>Timothy Baldwin,</hi> and Sir <hi>Edward Low.</hi>
+                     </p>
+                     <p>Mr. <hi>Speaker,</hi>
+                     </p>
+                     <p>The Lords have sent you the Answer of Sir <hi>William Scroggs,</hi> Knight, Chief Justice of His Majesties Court of <hi>Kings-Bench,</hi> to the Articles of Impeachment exhibited against him by the Commons in the Late Parliament assembled; as also a Petition from him to the Lords.</p>
+                     <p>A Petition of <hi>Thomas Wise</hi> Esq; Touching the Election for the Burrough of <hi>Banbury</hi> in the County of <hi>Oxon.</hi> was read.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said Petition be referr'd to the Consideration of the Committee of Electi<g ref="char:EOLhyphen"/>ons and Priviledges, to examine the Matter thereof, and Report the same, with their Opinions therein, to the House.</p>
+                     <p>A Petition of the Burgesses of the Burrough of <hi>Marlborough</hi> in the County of <hi>Wilts.</hi> Touching the Election for the said Burrough, was read.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said Petition be referr'd to the Consideration of the Committee of Elections and Priviledges to Examine the Matter thereof, and Report the same, with their Opinions therein to the House.</p>
+                     <p>A Petition of Sir <hi>Tho. Littleton,</hi> Baronet, and <hi>Tho. Cooke,</hi> Esq; Touching the Election for the Borough of <hi>Truro</hi> in the County of <hi>Cornwal,</hi> was Read.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said Petition be referr'd to the Consideration of the Committee of Electi<g ref="char:EOLhyphen"/>ons and Priviledges, to examine the matter thereof, and Report the same, with their Opinions therein, to the House.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That Leave be given to bring in a Bill to take away the Court, holden before the President and Councel in the Marches in <hi>Wales.</hi>
+                     </p>
+                     <p>It being Represented to this House, by several Members, that many Counties, Ci<g ref="char:EOLhyphen"/>ties and Burroughs, have freely without Charge, Elected many of their Members in this present Parliament, according to the antient Constitution of Elections of Mem<g ref="char:EOLhyphen"/>bers to serve in Parliament.</p>
+                     <pb n="6" facs="tcp:95133:4"/>
+                     <p> Wherefore this House doth give their Thanks to such Counties, Cities and Bur<g ref="char:EOLhyphen"/>roughs, for their said Elections.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That a Committee be appointed to consider of a more convenient Place in <hi>Oxon,</hi> for the Sitting of the Commons in Parliament now Assembled, and to make Report there<g ref="char:EOLhyphen"/>of to the House.</p>
+                     <p>The House then according to their Order, took into Consideration the matter re<g ref="char:EOLhyphen"/>lating to the Bill, which passed both Houses in the last Parliament, Entituled, <hi>An Act for the Repeal of a Statute made in the</hi> 35th. <hi>Year of the Reign of Queen</hi> Elizabeth, but was not Tender'd to his Majesty for his Royal Assent.</p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That a Message be sent to the Lords, desiring a Conference with their Lordships, in matters relating to the Constitution of Parliaments, in passing of Bills.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That a Committee be appointed to Consider of, and Prepare the subject matter to be offer'd at the said Conference.</p>
+                     <p>Mr. <hi>Hampden</hi> Reports the Proceedings of the late Parliaments, relating to the Im<g ref="char:EOLhyphen"/>peachment of the Commons of <hi>England,</hi> against the Earl of <hi>Danby.</hi>
+                     </p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That a Message be sent to the Lords, to mind their Lordships, That the Commons in Parliament Assembled, have formerly by their Speaker Demanded Judgment at the Bar of the Lords House, upon the Impeachment of the Commons, against <hi>Thomas</hi> Earl of <hi>Danby,</hi> of High Treason, and to desire their Lordships to appoint a Day to give Judg<g ref="char:EOLhyphen"/>ment against the said <hi>Thomas</hi> Earl of <hi>Danby,</hi> upon the said Impeachment, and that the Lord <hi>Cavendish</hi> do go up with the said Message.</p>
+                     <p>Sir <hi>George Treby</hi> acquaints the House, That he, together with Sir <hi>Robert Clayton,</hi> had taken the Examination of <hi>Edward Fitz-Harris,</hi> relating to the Popish Plot, which he read in his place, and afterwards deliver'd the same in at the Clerks Table.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said Examination be forthwith Printed.</p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That the same <hi>Edward Fitz-Harris</hi> be Impeached of High Treason, in the name of all the Commons of <hi>England,</hi> and that <hi>Mr.</hi> Secretary <hi>Jenkins</hi> do to Morrow Morning go up and Impeach him, at the Bar of the Lords House.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That it be Referr'd to Sir <hi>Francis Winnington,</hi> Sir <hi>William Jones,</hi> &amp;c. to draw up and prepare Articles of Impeachment against the said <hi>Edward Fitz-Harris.</hi>
+                     </p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That Sir <hi>George Treby</hi> do to Morrow Morning give the House an account of the In<g ref="char:EOLhyphen"/>formation given by Mr. <hi>Serjeant,</hi> relating to the Popish Plot.</p>
+                     <p>And then the House Adjourned till 8. to Morrow Morning.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="license">
+                  <p>I <hi>Appoint</hi> Gabriel Kunholt <hi>to Print these VOTES, Perused by me accord<g ref="char:EOLhyphen"/>ding to the Order of the</hi> House <hi>of</hi> Commons; <hi>And that no other Person presume to Print them.</hi> March 25, 1681</p>
+                  <closer>
+                     <signed>Wi Williams, <hi>Speaker.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>Gabriel Kunholt,</hi> Book-binder to his Highness Prince <hi>RUPERT;</hi> And are to be sold at his Shop at the <hi>King</hi>'s-<hi>Head</hi> over against the <hi>Meuse.</hi>
+                  </p>
+                  <p>Published by <hi>Langley Curtis</hi> in <hi>Goat Court</hi> upon <hi>Ludgate-Hill.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div n="4" type="number">
+                  <pb n="7" facs="tcp:95133:4"/>
+                  <head>Numb. 4.</head>
+                  <head>VOTES Of the HOUSE of COMMONS, At OXFORD.</head>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Sabbati <hi>26<seg rend="sup">o</seg>
+                              </hi> die Martii, <hi>1681.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>SIR <hi>Robert Howard</hi> Reports from the Committee appointed to consider of a more convenient place in <hi>Oxford</hi> for this House to Sit in, That the <hi>Theatre</hi> was the most convenient place they could find for that purpose.</p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That an Humble Address be Presented to His Majesty from this House, by such Members thereof as are of His Majesties most Honourable Privy Council, humbly re<g ref="char:EOLhyphen"/>presenting to His Majesty the inconvenience of the place where the Commons now Sit in Parliament; And that the House having by a Report from a Committee appointed to consider of a more convenient Place for their Sitting, been informed, that the <hi>Theatre</hi> in <hi>Oxford</hi> is a more convenient Place for their Sitting; Wherefore the Com<g ref="char:EOLhyphen"/>mons Humbly beseech His Majesty to command the <hi>Theatre</hi> may be fitted and prepared for their Sitting there.</p>
+                     <p>Sir <hi>William Jones</hi> reports from the Committee appointed to prepare the Subject matter of the Conference, desired to be had with the Lords in matters relating to the Constitution of Parliament in passing Bills, the matter agreed upon by the said Com<g ref="char:EOLhyphen"/>mittee.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the Lord <hi>Dursley</hi> do immediately go up to the Lords to desire such Confe<g ref="char:EOLhyphen"/>rence.</p>
+                     <p>Sir <hi>John Fagg</hi> being returned a Knight of the Shire to serve for the County of <hi>Sus<g ref="char:EOLhyphen"/>sex,</hi> and likewise a Burgess to serve for the Burrough of <hi>Steyning</hi> in the said County, made his Election to serve for the said County.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That Mr. <hi>Speaker</hi> do Issue out his Warrant to the Clerk of the Crown to make out a new Writ for the Election of a Burgess to serve in this present Parliament for the said Borough of <hi>Steyning,</hi> in the room of the said Sir <hi>John Fagg.</hi>
+                     </p>
+                     <p>A Petition of the Citizens and Inhabitants of <hi>New-Sarum,</hi> touching the Election for that City, was read.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said Petition be referred to the consideration of the Committee of Electi<g ref="char:EOLhyphen"/>ons and Priviledges, to examine the matter thereof, and to report the same, with their Opinions therein, to the House.</p>
+                     <p>Sir <hi>George Treby</hi> reports several Examinations taken from Mr. <hi>John Serjeant</hi> and <hi>David Maurice,</hi> relating to the Popish Plot, which he Read in his place, and afterwards deli<g ref="char:EOLhyphen"/>vered the same in at the Clerks Table, where the same being Read,</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said several Informations be forthwith Printed.</p>
+                     <p>This House having taken into solemn debate and consideration, the means for the security of the Protestant Religion, and for Safety of the Kings Person, doth resolve, That a Bill be brought in for excluding <hi>James</hi> Duke of <hi>York</hi> from Inheriting the Impe<g ref="char:EOLhyphen"/>rial Crowns of <hi>England</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereunto be<g ref="char:EOLhyphen"/>longing.</p>
+                     <pb n="8" facs="tcp:95133:5"/>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That a Committee be appointed to prepare and draw up the said Bill, and it is refer<g ref="char:EOLhyphen"/>red to Sir <hi>William Jones,</hi> &amp;c.</p>
+                     <p>Adjourned to 5 of the Clock <hi>Post Meridiem.</hi>
+                     </p>
+                  </div>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Sabbati <hi>26<seg rend="sup">o</seg>
+                              </hi> Martii, Post Meridiem.</date>
+                        </dateline>
+                     </opener>
+                     <p>THe House being informed, That the Lords had refused upon the Im<g ref="char:EOLhyphen"/>peachment of the Commons against <hi>Edward Fitz-Harris,</hi> and had directed that he should be proceeded against at the Common-Law, and aDebate arising in the House thereupon,</p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That it is the Undoubted Right of the Commons in Parliament assembled, to im<g ref="char:EOLhyphen"/>peach before the Lords in Parliament any Peer or Commoner for Treason, or any other Crime or Misdemeanour: And that the Refusal of the Lords to proceed in Parliament upon such Impeachment, is a Denial of Justice, and a Violation of the Constitution of Parliaments.</p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That in the Case of <hi>Edward Fitz-Harris,</hi> who by the Commons has been Impeached for High Treason before the Lords, with a Declaration, That in convenient time they would bring up the Articles against him; for the Lords to Resolve, That the said <hi>Fitz-Harris</hi> should be proceeded with according to the course of Common Law, and not by way of Impeachment in Parliament, at this time, is a Denial of Justice, and a Violation of the Constitution of Parliaments, and an Obstruction to the further discovery of the Popish Plot, and of great danger to His Majesties Person, and the Protestant Reli<g ref="char:EOLhyphen"/>gion.</p>
+                     <p>
+                        <hi>Resolved,</hi>
+                     </p>
+                     <p>That for any Inferiour Court to proceed against <hi>Edward Fitz-Harris,</hi> or any other Person lying under an Impeachment in Parliament, for the same Crimes for which he or they stand Impeached, is and high Breach of the Priviledge of Parliament.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That a Bill or Bills be brought in for the better Uniting of all His Majesties Prote<g ref="char:EOLhyphen"/>stant Subjects.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That a Bill be brought in for Banishing the most Considerable Papists of <hi>England</hi> out of His Majesties Dominions by their Names.</p>
+                     <p>Adjourned, <hi>&amp;c.</hi>
+                     </p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="license">
+                  <p>I <hi>Appoint</hi> Gabriel Kunholt <hi>to Print these VOTES, Perused by me accord<g ref="char:EOLhyphen"/>ing to the Order of the</hi> House of Commons; <hi>And that no other Person presume to Print them.</hi> March 26. 1681.</p>
+                  <closer>
+                     <signed>Wi Williams, <hi>Speaker.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>Gabriel Kunholt</hi> Book-binder to his Highness Prince <hi>RUPERT;</hi> And are to be sold at his Shop at the <hi>King</hi>'s-<hi>Head</hi> over against the <hi>Meuse.</hi>
+                  </p>
+                  <p>Published by <hi>Langley Curtis</hi> upon <hi>Ludgate-Hill.</hi>
+                  </p>
+               </div>
+               <div type="publishers_notice">
+                  <p>☜ Whereas <hi>Benj. Harris</hi> in his <hi>Domestick Intelligence,</hi> last Week presumptuously without order published an imperfect account of the <hi>Speakers</hi> Speeches upon his being Elected <hi>Speaker:</hi> This is to give notice, that the true Speeches published by the <hi>Speaker's</hi> own Order and Authority, are Printed for <hi>Gabriel Kunholt,</hi> and are to be Sold at his Shop over against the <hi>Meuse,</hi> and by <hi>Langley Curtis</hi> on <hi>Ludgate-Hill.</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div n="5" type="number">
+                  <pb n="9" facs="tcp:95133:5"/>
+                  <head>Numb. 5.</head>
+                  <head>VOTES of the HOUSE of COMMONS, At OXFORD.</head>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>Lunae <hi>28<seg rend="sup">o</seg>
+                              </hi> die Martii, <hi>1681.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>APetition of Sir <hi>John Sidnam,</hi> touching the Election of a Knight, to serve in this present Parliament for the County of <hi>Somerset</hi> was read.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the said Petition be referred to the consideration of the Committe of Elections and Priviledges.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That Mr. <hi>Speaker</hi> do issue out his Warrant for sending for Rer<g ref="char:EOLhyphen"/>sons, Papers and Records, in such Elections, as are appointed to be heard at the Bar of the House.</p>
+                     <p>A Petition of <hi>Edward Nosworthy</hi> Esq; touching the Election for <hi>Leskaid</hi> was read, and referred to the Committee of Elections and Priviledges.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That every Knight of the <hi>Shire</hi> do pay ten Shillings, and eve<g ref="char:EOLhyphen"/>ry Citizen and Burgess five Shillings to be distributed amongst the Officers attending the House.</p>
+                     <p>A Bill for Excluding <hi>James</hi> Duke of <hi>York,</hi> to inherit the Impe<g ref="char:EOLhyphen"/>rial
+<pb n="10" facs="tcp:95133:6"/>Crown of <hi>England</hi> and the Dominions and Territories there<g ref="char:EOLhyphen"/>unto belonging.</p>
+                     <p>
+                        <hi>Ordered,</hi>
+                     </p>
+                     <p>That the Bill be read a Second time to morrow morning at Ten of the Clock in a full House.</p>
+                     <p>A Message from His Majesty by Mr. <hi>Edward Duppa,</hi> Deputy-Usher of the <hi>Black Rod.</hi>
+                     </p>
+                     <p>Mr. <hi>Speaker,</hi>
+                     </p>
+                     <p>The King Commands this Hounourable House to Attend Him immediately in the House of Peers.</p>
+                     <p>And accordingly Mr. <hi>Speaker</hi> with the House went up to At<g ref="char:EOLhyphen"/>tend His Majesty, where His Majesty was pleased to Dissolve this present Parliament.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="license">
+                  <p>I <hi>Appoint</hi> Gabriel Kunholt <hi>to Print these VOTES, Perused by me accord<g ref="char:EOLhyphen"/>ding to the Order of the</hi> House <hi>of</hi> Commons; <hi>And that no other Person presume to Print them.</hi> March 28, 1681</p>
+                  <closer>
+                     <signed>Wi Williams, <hi>Speaker.</hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>Gabriel Kunholt,</hi> Book-binder to his Highness Prince <hi>RUPERT;</hi> And are to be sold at his Shop at the <hi>King</hi>'s <hi>Head</hi> over against the <hi>Meuse.</hi>
+                  </p>
+                  <p>Published by <hi>Langley Curtis</hi> upon <hi>Ludgate-Hill.</hi>
+                  </p>
+               </div>
+               <div type="publishers_advertisement">
+                  <p>☜ There are Printing for <hi>Gabriel Kunholt,</hi> by appointment of Mr. <hi>Spea<g ref="char:EOLhyphen"/>ker,</hi> the Informations of <hi>John Serjeant</hi> and <hi>David Morris</hi> Gentlemen, relating to the Popish Plot (delivered by them upon their respective Oaths) reported to the House of Commons upon <hi>Saturday</hi> the 26th day of <hi>March,</hi> 1681. Then order'd by the Commons in Parliament to be forthwith Printed.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
